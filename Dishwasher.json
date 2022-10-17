@@ -1,0 +1,3531 @@
+[
+    {
+        "id": "d643dfbbd57b6a14",
+        "type": "tab",
+        "label": "Dishwasher",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "8e8a2ddba52d02c8",
+        "type": "group",
+        "z": "d643dfbbd57b6a14",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "498347b3f5a600bc",
+            "b2aea1cb56880420",
+            "eee223d5d02ef0cf",
+            "7bde961f285d0d70",
+            "e7d1adf5ad4c1112",
+            "8d3aad8796538c01",
+            "963a6157c6510881",
+            "ccf1046ca8fdebf3",
+            "740a88376915b8c6",
+            "1358ebca6019f69b",
+            "d82d201c00a83caa",
+            "710c2a976917ea5d",
+            "a6304d232ea54a63",
+            "989e3e01f21d9c14",
+            "5af5df7a9eb358e9",
+            "0074610387c16a33",
+            "07d941a593e6ca9b",
+            "c424a25ad6c1b91e"
+        ],
+        "x": 54,
+        "y": 1011.5,
+        "w": 1272,
+        "h": 309.5
+    },
+    {
+        "id": "db8ff6479b214bba",
+        "type": "group",
+        "z": "d643dfbbd57b6a14",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e5b9abbcddd29c62",
+            "3268ef5a673bb24f",
+            "113c6cb0a77a45f4",
+            "d5cbf6e16461996e",
+            "9f800364d0ecc6ed",
+            "32bc27bd42032eae",
+            "9eed1c8a51c0c3d7",
+            "868d58a427380ada",
+            "a9066b3ce0ac6a4c",
+            "8569b8a2e718ac23"
+        ],
+        "x": 54,
+        "y": 659,
+        "w": 1552,
+        "h": 182
+    },
+    {
+        "id": "795af5d394972550",
+        "type": "group",
+        "z": "d643dfbbd57b6a14",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7b5e0a55fbee7c81",
+            "792510059976f46f",
+            "77d46de852a4f1c1",
+            "3bc69da00d1c497c",
+            "57a312cc8fce2c42",
+            "07cc7dc66e6dbbc2",
+            "af2e16a5c7f53f4d"
+        ],
+        "x": 54,
+        "y": 459,
+        "w": 1072,
+        "h": 192
+    },
+    {
+        "id": "f5ab813e255af16f",
+        "type": "group",
+        "z": "d643dfbbd57b6a14",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b11289711f2fc6fb",
+            "de137cd0cdd6de91",
+            "2d1a9451ea7a42c8",
+            "225d04d9954c391e",
+            "8c088eeb6aeadf2a",
+            "ec0f961bdb55c36a",
+            "de3f942709f8fbc9",
+            "aacaea593db3eae6",
+            "5599509c9b2c80e2",
+            "e637c8fab4738bb4",
+            "97176a2c73dee793",
+            "b34bf114df976dbd",
+            "11b2f1daded048f8",
+            "0d388043d4aee944",
+            "fa5a2128468e8804",
+            "dc85660eab7d3d0d",
+            "c1e3ec4646ed4aa4",
+            "dc3516081af7693f",
+            "1ec0092dfdefceb8"
+        ],
+        "x": 1814,
+        "y": 559,
+        "w": 1632,
+        "h": 282
+    },
+    {
+        "id": "4cb386e91fa23c43",
+        "type": "group",
+        "z": "d643dfbbd57b6a14",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "23ca920391e9a28e",
+            "a29a9a25deeceb0a",
+            "d8dd2a57eef02513",
+            "2b9fe50ee2cf43ce",
+            "4eaec8a8798541a0",
+            "68cf23398ea48e5b",
+            "4acb30af66e61ae4",
+            "1aa22b97dbca9abe",
+            "a76832fd4929a285",
+            "a4e18d1679cdcc72",
+            "9691bc12caa9e647",
+            "20ca0aed8cc5dda0",
+            "1216187d12d4ad31",
+            "48ba0d5b05b44e90",
+            "bc202290bb940567",
+            "021827260e153bf4",
+            "e1abe15250808f09",
+            "ca7ed3d0ad5a9bf9",
+            "40e779e74a0f986f",
+            "38376af5fc45a4c6",
+            "7a3f9610022cdab3",
+            "94cb7781e543e3f9"
+        ],
+        "x": 54,
+        "y": 39,
+        "w": 1412,
+        "h": 402
+    },
+    {
+        "id": "a1dc1ef12a202dab",
+        "type": "group",
+        "z": "d643dfbbd57b6a14",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9d7da2745ec5e489",
+            "7bbecd94fa3e255e",
+            "e2ddad3052031043",
+            "ad8c32c34eb933a7",
+            "cadecf0f028f5ed1",
+            "50e4185bce0dba5c",
+            "d70edd629a6cbcdd",
+            "a88ae94304d456c1",
+            "150c0fbead01f76b",
+            "b7a183085408cca1",
+            "bfd0ab53b89de4df",
+            "8211cfb2fac0f7f0",
+            "68ae9844aab7af27",
+            "86848426bb6b024c",
+            "5d91e72bf7caecb6",
+            "c9696c85e3880da6",
+            "c71c98518972bc07",
+            "f3eea1c731fea322",
+            "bc9b21712ef46d39",
+            "f3a0d2b5dffcd615",
+            "6f7d6b8a15854eac",
+            "7650a070726f4f24",
+            "b5df17317bed0d23",
+            "440bfe33891e0e56",
+            "87483e7f0da164dc",
+            "061d42d892276d1c"
+        ],
+        "x": 1814,
+        "y": 39,
+        "w": 2092,
+        "h": 362
+    },
+    {
+        "id": "bc202290bb940567",
+        "type": "junction",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "x": 520,
+        "y": 180,
+        "wires": [
+            [
+                "23ca920391e9a28e",
+                "021827260e153bf4"
+            ]
+        ]
+    },
+    {
+        "id": "021827260e153bf4",
+        "type": "junction",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "x": 580,
+        "y": 260,
+        "wires": [
+            [
+                "a29a9a25deeceb0a"
+            ]
+        ]
+    },
+    {
+        "id": "07d941a593e6ca9b",
+        "type": "junction",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "x": 260,
+        "y": 1180,
+        "wires": [
+            [
+                "e7d1adf5ad4c1112",
+                "b2aea1cb56880420",
+                "ccf1046ca8fdebf3",
+                "d82d201c00a83caa",
+                "989e3e01f21d9c14"
+            ]
+        ]
+    },
+    {
+        "id": "e1abe15250808f09",
+        "type": "junction",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "x": 1180,
+        "y": 180,
+        "wires": [
+            [
+                "1216187d12d4ad31",
+                "a76832fd4929a285"
+            ]
+        ]
+    },
+    {
+        "id": "b44f616e36ab6cbc",
+        "type": "junction",
+        "z": "d643dfbbd57b6a14",
+        "x": 2120,
+        "y": 460,
+        "wires": [
+            [
+                "70d95e58014c1bb7"
+            ]
+        ]
+    },
+    {
+        "id": "70d95e58014c1bb7",
+        "type": "junction",
+        "z": "d643dfbbd57b6a14",
+        "x": 2180,
+        "y": 460,
+        "wires": [
+            [
+                "f3eea1c731fea322"
+            ]
+        ]
+    },
+    {
+        "id": "ca7ed3d0ad5a9bf9",
+        "type": "junction",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "x": 840,
+        "y": 220,
+        "wires": [
+            [
+                "68cf23398ea48e5b",
+                "1aa22b97dbca9abe"
+            ]
+        ]
+    },
+    {
+        "id": "fa5a2128468e8804",
+        "type": "junction",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "x": 2300,
+        "y": 760,
+        "wires": [
+            [
+                "de3f942709f8fbc9",
+                "0d388043d4aee944"
+            ]
+        ]
+    },
+    {
+        "id": "87483e7f0da164dc",
+        "type": "junction",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "x": 3380,
+        "y": 280,
+        "wires": [
+            [
+                "86848426bb6b024c",
+                "440bfe33891e0e56"
+            ]
+        ]
+    },
+    {
+        "id": "23ca920391e9a28e",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "Dishwasher operation state changed",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 730,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "a29a9a25deeceb0a",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "operationstate",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Ready",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Inactive",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Finished",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Run",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "unavailable",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 6,
+        "x": 700,
+        "y": 260,
+        "wires": [
+            [
+                "ca7ed3d0ad5a9bf9",
+                "38376af5fc45a4c6"
+            ],
+            [
+                "ca7ed3d0ad5a9bf9"
+            ],
+            [
+                "1aa22b97dbca9abe",
+                "40e779e74a0f986f"
+            ],
+            [
+                "a4e18d1679cdcc72"
+            ],
+            [
+                "20ca0aed8cc5dda0"
+            ],
+            [
+                "d8dd2a57eef02513"
+            ]
+        ]
+    },
+    {
+        "id": "d8dd2a57eef02513",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "Dishwasher operation unknown state",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1050,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "498347b3f5a600bc",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "init",
+        "payloadType": "str",
+        "x": 150,
+        "y": 1180,
+        "wires": [
+            [
+                "07d941a593e6ca9b"
+            ]
+        ]
+    },
+    {
+        "id": "b2aea1cb56880420",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "dwOpenedSinceFinished",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 3,
+        "x": 490,
+        "y": 1060,
+        "wires": [
+            [],
+            [],
+            [
+                "eee223d5d02ef0cf"
+            ]
+        ]
+    },
+    {
+        "id": "eee223d5d02ef0cf",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwOpenedSinceFinished",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 800,
+        "y": 1060,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2b9fe50ee2cf43ce",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "Inactive",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "BSH.Common.EnumType.OperationState.Inactive",
+        "payloadType": "str",
+        "x": 250,
+        "y": 300,
+        "wires": [
+            [
+                "021827260e153bf4"
+            ]
+        ]
+    },
+    {
+        "id": "4eaec8a8798541a0",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "Ready",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "BSH.Common.EnumType.OperationState.Ready",
+        "payloadType": "str",
+        "x": 250,
+        "y": 340,
+        "wires": [
+            [
+                "021827260e153bf4"
+            ]
+        ]
+    },
+    {
+        "id": "9afcf9dae541ae4c",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "tibberBestPrices",
+        "payloadType": "global",
+        "x": 460,
+        "y": 2300,
+        "wires": [
+            [
+                "e23efd82391a1ce2"
+            ]
+        ]
+    },
+    {
+        "id": "7bde961f285d0d70",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "init dwOpenedSinceFinished = true",
+        "info": "",
+        "x": 1120,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "68cf23398ea48e5b",
+        "type": "api-current-state",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "Bosch Dishwasher - Door State",
+        "server": "e65189ad.c88a08",
+        "version": 3,
+        "outputs": 2,
+        "halt_if": "everything",
+        "halt_if_type": "str",
+        "halt_if_compare": "is_not",
+        "entity_id": "binary_sensor.dishwasher_door",
+        "state_type": "str",
+        "blockInputOverrides": false,
+        "outputProperties": [
+            {
+                "property": "payload",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entityState"
+            },
+            {
+                "property": "data",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entity"
+            }
+        ],
+        "for": "0",
+        "forType": "num",
+        "forUnits": "minutes",
+        "override_topic": false,
+        "state_location": "payload",
+        "override_payload": "msg",
+        "entity_location": "data",
+        "override_data": "msg",
+        "x": 1030,
+        "y": 180,
+        "wires": [
+            [
+                "e1abe15250808f09"
+            ],
+            [
+                "e1abe15250808f09"
+            ]
+        ]
+    },
+    {
+        "id": "9d7da2745ec5e489",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "doorstate",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "on",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "off",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "unavailable",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 4,
+        "x": 1900,
+        "y": 260,
+        "wires": [
+            [
+                "ad8c32c34eb933a7"
+            ],
+            [
+                "a88ae94304d456c1"
+            ],
+            [
+                "7bbecd94fa3e255e"
+            ],
+            [
+                "7bbecd94fa3e255e"
+            ]
+        ]
+    },
+    {
+        "id": "e7d1adf5ad4c1112",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "dwFinished",
+        "property": "dwFinished",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 3,
+        "x": 450,
+        "y": 1120,
+        "wires": [
+            [],
+            [],
+            [
+                "8d3aad8796538c01"
+            ]
+        ]
+    },
+    {
+        "id": "8d3aad8796538c01",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwFinished",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 760,
+        "y": 1120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "963a6157c6510881",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "init dwFinished = false",
+        "info": "",
+        "x": 1080,
+        "y": 1120,
+        "wires": []
+    },
+    {
+        "id": "ccf1046ca8fdebf3",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "dwRunning",
+        "property": "dwRunning",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 3,
+        "x": 450,
+        "y": 1180,
+        "wires": [
+            [],
+            [],
+            [
+                "740a88376915b8c6"
+            ]
+        ]
+    },
+    {
+        "id": "740a88376915b8c6",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwRunning",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 760,
+        "y": 1180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1358ebca6019f69b",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "init dwRunning = true",
+        "info": "",
+        "x": 1080,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "4acb30af66e61ae4",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "ready, inactive, run,finished",
+        "info": "",
+        "x": 690,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "7bbecd94fa3e255e",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "Dishwasher door unknown state",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2170,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "e2ddad3052031043",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "on, off,unavailable",
+        "info": "",
+        "x": 1930,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "1aa22b97dbca9abe",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "dwRunning = false",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwRunning",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 990,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ad8c32c34eb933a7",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "dwOpenedSinceFinished = true",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwOpenedSinceFinished",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2150,
+        "y": 120,
+        "wires": [
+            [
+                "7650a070726f4f24"
+            ]
+        ]
+    },
+    {
+        "id": "cadecf0f028f5ed1",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "dwProgramToRun = Eco50",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwProgramToRun",
+                "pt": "global",
+                "to": "Eco50",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3020,
+        "y": 240,
+        "wires": [
+            [
+                "bfd0ab53b89de4df"
+            ]
+        ]
+    },
+    {
+        "id": "50e4185bce0dba5c",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "dwProgramToRun = Quick65",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwProgramToRun",
+                "pt": "global",
+                "to": "Quick65",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3020,
+        "y": 280,
+        "wires": [
+            [
+                "8211cfb2fac0f7f0"
+            ]
+        ]
+    },
+    {
+        "id": "d70edd629a6cbcdd",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "dwProgramToRun = Auto2",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwProgramToRun",
+                "pt": "global",
+                "to": "Auto2",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3020,
+        "y": 320,
+        "wires": [
+            [
+                "68ae9844aab7af27"
+            ]
+        ]
+    },
+    {
+        "id": "a88ae94304d456c1",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "dwOpenedSinceFinished",
+        "property": "dwOpenedSinceFinished",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 2170,
+        "y": 280,
+        "wires": [
+            [
+                "f3eea1c731fea322"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "150c0fbead01f76b",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "true, false, unavailable",
+        "info": "",
+        "x": 2160,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "e23efd82391a1ce2",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "name": "debug 4",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 2320,
+        "wires": []
+    },
+    {
+        "id": "b7a183085408cca1",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "dw will start at",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "dwTimeToRun",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3780,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "bfd0ab53b89de4df",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "dwTimeToRun",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwTimeToRun",
+                "pt": "global",
+                "to": "tibberBestPrices.h5[0].startsAt",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3260,
+        "y": 240,
+        "wires": [
+            [
+                "87483e7f0da164dc"
+            ]
+        ]
+    },
+    {
+        "id": "8211cfb2fac0f7f0",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "dwTimeToRun",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwTimeToRun",
+                "pt": "global",
+                "to": "tibberBestPrices.h1[0].startsAt",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3260,
+        "y": 280,
+        "wires": [
+            [
+                "87483e7f0da164dc"
+            ]
+        ]
+    },
+    {
+        "id": "68ae9844aab7af27",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "dwTimeToRun",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwTimeToRun",
+                "pt": "global",
+                "to": "tibberBestPrices.h3[0].startsAt",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3260,
+        "y": 320,
+        "wires": [
+            [
+                "87483e7f0da164dc"
+            ]
+        ]
+    },
+    {
+        "id": "86848426bb6b024c",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwTimeToRun",
+                "pt": "msg",
+                "to": "dwTimeToRun",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3540,
+        "y": 300,
+        "wires": [
+            [
+                "b7a183085408cca1"
+            ]
+        ]
+    },
+    {
+        "id": "5d91e72bf7caecb6",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "Figure out the lowest price",
+        "info": "",
+        "x": 2670,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "d82d201c00a83caa",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "dwProgramToRun",
+        "property": "dwProgramToRun",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "nempty"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 470,
+        "y": 1240,
+        "wires": [
+            [],
+            [
+                "710c2a976917ea5d"
+            ]
+        ]
+    },
+    {
+        "id": "710c2a976917ea5d",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwProgramToRun",
+                "pt": "global",
+                "to": "",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 780,
+        "y": 1240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a6304d232ea54a63",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "init dwProgramToRun = \"\"",
+        "info": "",
+        "x": 1090,
+        "y": 1240,
+        "wires": []
+    },
+    {
+        "id": "989e3e01f21d9c14",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "dwTimeToRun",
+        "property": "dwTimeToRun",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "gt",
+                "v": "0",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 460,
+        "y": 1280,
+        "wires": [
+            [],
+            [
+                "5af5df7a9eb358e9"
+            ]
+        ]
+    },
+    {
+        "id": "5af5df7a9eb358e9",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwTimeToRun",
+                "pt": "global",
+                "to": "have not yet been set",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 770,
+        "y": 1280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0074610387c16a33",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "init dwTimeToRun = \"have not yet been set\"",
+        "info": "",
+        "x": 1140,
+        "y": 1280,
+        "wires": []
+    },
+    {
+        "id": "76a5f6ee3207132c",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "dwOpenedSinceFinished",
+        "payloadType": "global",
+        "x": 490,
+        "y": 2260,
+        "wires": [
+            [
+                "e23efd82391a1ce2"
+            ]
+        ]
+    },
+    {
+        "id": "08b967532d642f5f",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "dwRunning",
+        "payloadType": "global",
+        "x": 450,
+        "y": 2220,
+        "wires": [
+            [
+                "e23efd82391a1ce2"
+            ]
+        ]
+    },
+    {
+        "id": "808e81a185ddbaa7",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "dwProgramToRun",
+        "payloadType": "global",
+        "x": 470,
+        "y": 2340,
+        "wires": [
+            [
+                "e23efd82391a1ce2"
+            ]
+        ]
+    },
+    {
+        "id": "f3b88c5563c1e5b1",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "dwTimeToRun",
+        "payloadType": "global",
+        "x": 450,
+        "y": 2380,
+        "wires": [
+            [
+                "e23efd82391a1ce2"
+            ]
+        ]
+    },
+    {
+        "id": "c9696c85e3880da6",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 2180,
+        "y": 160,
+        "wires": [
+            [
+                "f3eea1c731fea322"
+            ]
+        ]
+    },
+    {
+        "id": "0c8a129012f6e004",
+        "type": "api-current-state",
+        "z": "d643dfbbd57b6a14",
+        "name": "Bosch Dishwasher - Door State",
+        "server": "e65189ad.c88a08",
+        "version": 3,
+        "outputs": 2,
+        "halt_if": "everything",
+        "halt_if_type": "str",
+        "halt_if_compare": "is_not",
+        "entity_id": "binary_sensor.dishwasher_door",
+        "state_type": "str",
+        "blockInputOverrides": false,
+        "outputProperties": [
+            {
+                "property": "payload",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entityState"
+            },
+            {
+                "property": "data",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entity"
+            }
+        ],
+        "for": "0",
+        "forType": "num",
+        "forUnits": "minutes",
+        "override_topic": false,
+        "state_location": "payload",
+        "override_payload": "msg",
+        "entity_location": "data",
+        "override_data": "msg",
+        "x": 710,
+        "y": 2160,
+        "wires": [
+            [
+                "e23efd82391a1ce2"
+            ],
+            [
+                "e23efd82391a1ce2"
+            ]
+        ]
+    },
+    {
+        "id": "62cf8e6140fe5ed2",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "name": "asd",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "dwRunning",
+        "payloadType": "global",
+        "x": 410,
+        "y": 2160,
+        "wires": [
+            [
+                "0c8a129012f6e004"
+            ]
+        ]
+    },
+    {
+        "id": "a76832fd4929a285",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "Door state",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1350,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "af5968f685fdb998",
+        "type": "api-call-service",
+        "z": "d643dfbbd57b6a14",
+        "name": "Toggle",
+        "server": "e65189ad.c88a08",
+        "version": 5,
+        "debugenabled": true,
+        "domain": "switch",
+        "service": "turn_on",
+        "areaId": [],
+        "deviceId": [],
+        "entityId": [
+            "switch.dishwasher_power"
+        ],
+        "data": "",
+        "dataType": "json",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "all",
+        "x": 630,
+        "y": 2100,
+        "wires": [
+            [
+                "8dca58c521cd80c2"
+            ]
+        ]
+    },
+    {
+        "id": "6324dd2819518123",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "name": "Turn On",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 420,
+        "y": 2100,
+        "wires": [
+            [
+                "af5968f685fdb998"
+            ]
+        ]
+    },
+    {
+        "id": "326e8ed0d62dceaa",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "h1",
+        "payloadType": "flow",
+        "x": 210,
+        "y": 1820,
+        "wires": [
+            [
+                "b92b6980f7bcd1ac"
+            ]
+        ]
+    },
+    {
+        "id": "679a2d7b41e85acc",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "name": "debug 21",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 1820,
+        "wires": []
+    },
+    {
+        "id": "20b06f9daaebdc45",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "name": "debug 22",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 1860,
+        "wires": []
+    },
+    {
+        "id": "54c28a71bddc5952",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "name": "debug 23",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 1900,
+        "wires": []
+    },
+    {
+        "id": "2ee8d2b5cd364139",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "name": "debug 24",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "global.get('tibberBestPrices').h3[0]",
+        "targetType": "jsonata",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 1940,
+        "wires": []
+    },
+    {
+        "id": "c71c98518972bc07",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "https://www.teleradio.nu/produkt/bosch-smu4haw48s",
+        "info": "",
+        "x": 2750,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "1c2e06af9471f8c9",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "h3",
+        "payloadType": "flow",
+        "x": 210,
+        "y": 1860,
+        "wires": [
+            [
+                "b92b6980f7bcd1ac"
+            ]
+        ]
+    },
+    {
+        "id": "6a2a0df78da95d09",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "h5",
+        "payloadType": "flow",
+        "x": 210,
+        "y": 1900,
+        "wires": [
+            [
+                "b92b6980f7bcd1ac"
+            ]
+        ]
+    },
+    {
+        "id": "f3eea1c731fea322",
+        "type": "function",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "Set h1,h3,h5",
+        "func": "// https://www.teleradio.nu/produkt/bosch-smu4haw48s\n\n// Multiply with the energy usage of the diffrent programs.\nflow.set('h1', global.get('tibberBestPrices').h1[0].h1 * 1.3)\nflow.set('h3', global.get('tibberBestPrices').h3[0].h3 * 1.2)\nflow.set('h5', global.get('tibberBestPrices').h5[0].h5 * 0.836)\nreturn { payload: msg.payload};",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2430,
+        "y": 280,
+        "wires": [
+            [
+                "bc9b21712ef46d39"
+            ]
+        ]
+    },
+    {
+        "id": "fdf3e29202143862",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "name": "h5 < h3",
+        "property": "h5",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "h3",
+                "vt": "flow"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 620,
+        "y": 1880,
+        "wires": [
+            [
+                "337a6536ef50750c"
+            ],
+            [
+                "9ffee936263b8e65"
+            ]
+        ]
+    },
+    {
+        "id": "337a6536ef50750c",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "name": "h5 < h1",
+        "property": "h5",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "h1",
+                "vt": "flow"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 780,
+        "y": 1860,
+        "wires": [
+            [
+                "679a2d7b41e85acc"
+            ],
+            [
+                "20b06f9daaebdc45"
+            ]
+        ]
+    },
+    {
+        "id": "9ffee936263b8e65",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "name": "h1 < h3 ",
+        "property": "h1",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "h3",
+                "vt": "flow"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 780,
+        "y": 1900,
+        "wires": [
+            [
+                "54c28a71bddc5952"
+            ],
+            [
+                "2ee8d2b5cd364139"
+            ]
+        ]
+    },
+    {
+        "id": "b92b6980f7bcd1ac",
+        "type": "function",
+        "z": "d643dfbbd57b6a14",
+        "name": "Set h1,h3,h5",
+        "func": "// https://www.teleradio.nu/produkt/bosch-smu4haw48s\n\n// Multiply with the energy usage of the diffrent programs.\nflow.set('h1', global.get('tibberBestPrices').h1[0].h1 * 1.3)\nflow.set('h3', global.get('tibberBestPrices').h3[0].h3 * 1.2)\nflow.set('h5', global.get('tibberBestPrices').h5[0].h5 * 0.836)\nreturn { payload: msg.payload};",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 1880,
+        "wires": [
+            [
+                "fdf3e29202143862"
+            ]
+        ]
+    },
+    {
+        "id": "bc9b21712ef46d39",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "h5 < h3",
+        "property": "h5",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "h3",
+                "vt": "flow"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 2620,
+        "y": 280,
+        "wires": [
+            [
+                "f3a0d2b5dffcd615"
+            ],
+            [
+                "6f7d6b8a15854eac"
+            ]
+        ]
+    },
+    {
+        "id": "f3a0d2b5dffcd615",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "h5 < h1",
+        "property": "h5",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "h1",
+                "vt": "flow"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 2780,
+        "y": 260,
+        "wires": [
+            [
+                "cadecf0f028f5ed1"
+            ],
+            [
+                "50e4185bce0dba5c"
+            ]
+        ]
+    },
+    {
+        "id": "6f7d6b8a15854eac",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "h1 < h3 ",
+        "property": "h1",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "h3",
+                "vt": "flow"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 2780,
+        "y": 300,
+        "wires": [
+            [
+                "50e4185bce0dba5c"
+            ],
+            [
+                "d70edd629a6cbcdd"
+            ]
+        ]
+    },
+    {
+        "id": "a4e18d1679cdcc72",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "dwRunning = true",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwRunning",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 990,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7b5e0a55fbee7c81",
+        "type": "api-call-service",
+        "z": "d643dfbbd57b6a14",
+        "g": "795af5d394972550",
+        "name": "",
+        "server": "e65189ad.c88a08",
+        "version": 5,
+        "debugenabled": true,
+        "domain": "switch",
+        "service": "turn_on",
+        "areaId": [
+            "kitchen"
+        ],
+        "deviceId": [
+            "535744c8ef8e753a4aec00558475f36a"
+        ],
+        "entityId": [
+            "switch.dishwasher_power"
+        ],
+        "data": "",
+        "dataType": "json",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "none",
+        "x": 900,
+        "y": 580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8dca58c521cd80c2",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "name": "debug 27",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1000,
+        "y": 2100,
+        "wires": []
+    },
+    {
+        "id": "a53ba58b953508e1",
+        "type": "api-current-state",
+        "z": "d643dfbbd57b6a14",
+        "name": "Bosch Dishwasher - Operation State",
+        "server": "e65189ad.c88a08",
+        "version": 3,
+        "outputs": 2,
+        "halt_if": "everything",
+        "halt_if_type": "str",
+        "halt_if_compare": "is_not",
+        "entity_id": "sensor.dishwasher_operation_state",
+        "state_type": "str",
+        "blockInputOverrides": false,
+        "outputProperties": [
+            {
+                "property": "payload",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entityState"
+            },
+            {
+                "property": "data",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entity"
+            }
+        ],
+        "for": "1",
+        "forType": "num",
+        "forUnits": "seconds",
+        "override_topic": false,
+        "state_location": "payload",
+        "override_payload": "msg",
+        "entity_location": "data",
+        "override_data": "msg",
+        "x": 730,
+        "y": 2060,
+        "wires": [
+            [
+                "8dca58c521cd80c2"
+            ],
+            [
+                "8dca58c521cd80c2"
+            ]
+        ]
+    },
+    {
+        "id": "647d315591ed1dec",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "name": "Turn On",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 420,
+        "y": 2060,
+        "wires": [
+            [
+                "a53ba58b953508e1"
+            ]
+        ]
+    },
+    {
+        "id": "9691bc12caa9e647",
+        "type": "server-state-changed",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "",
+        "server": "e65189ad.c88a08",
+        "version": 4,
+        "exposeToHomeAssistant": false,
+        "haConfig": [
+            {
+                "property": "name",
+                "value": ""
+            },
+            {
+                "property": "icon",
+                "value": ""
+            }
+        ],
+        "entityidfilter": "sensor.dishwasher_operation_state",
+        "entityidfiltertype": "exact",
+        "outputinitially": false,
+        "state_type": "str",
+        "haltifstate": "apa",
+        "halt_if_type": "str",
+        "halt_if_compare": "is_not",
+        "outputs": 2,
+        "output_only_on_state_change": true,
+        "for": "0",
+        "forType": "num",
+        "forUnits": "minutes",
+        "ignorePrevStateNull": false,
+        "ignorePrevStateUnknown": false,
+        "ignorePrevStateUnavailable": false,
+        "ignoreCurrentStateUnknown": false,
+        "ignoreCurrentStateUnavailable": false,
+        "outputProperties": [
+            {
+                "property": "payload",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entityState"
+            },
+            {
+                "property": "data",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "eventData"
+            },
+            {
+                "property": "topic",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "triggerId"
+            }
+        ],
+        "x": 270,
+        "y": 180,
+        "wires": [
+            [
+                "bc202290bb940567"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "20ca0aed8cc5dda0",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "Dishwasher operation unavailable",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1040,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "7650a070726f4f24",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "dwOpenedSinceFinished = true",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2450,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "c6c8ec2fcd02106e",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "name": "Door is open, calculate new start time",
+        "info": "",
+        "x": 2250,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "1216187d12d4ad31",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "flow.starting",
+        "property": "starting",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "false"
+            },
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1350,
+        "y": 220,
+        "wires": [
+            [
+                "9d7da2745ec5e489"
+            ],
+            [
+                "b11289711f2fc6fb"
+            ]
+        ]
+    },
+    {
+        "id": "868d58a427380ada",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "g": "db8ff6479b214bba",
+        "name": "Poller",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "60",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "60",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 320,
+        "y": 780,
+        "wires": [
+            [
+                "e5b9abbcddd29c62"
+            ]
+        ]
+    },
+    {
+        "id": "e5b9abbcddd29c62",
+        "type": "function",
+        "z": "d643dfbbd57b6a14",
+        "g": "db8ff6479b214bba",
+        "name": "TimeToStartDW",
+        "func": "const a = new Date(global.get(\"dwTimeToRun\")) \nconst b = new Date() \n// if a is a valid date, calculate, otherwise return false.\nreturn { payload: !isNaN(a) ? b>a : false};\n//msg.payload = \"flaska\";\n//return {payload: \"false\"}\n\n//return { payload: msg.payload };",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 500,
+        "y": 780,
+        "wires": [
+            [
+                "9eed1c8a51c0c3d7"
+            ]
+        ]
+    },
+    {
+        "id": "3268ef5a673bb24f",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "db8ff6479b214bba",
+        "name": "true/false",
+        "property": "starting",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 920,
+        "y": 780,
+        "wires": [
+            [
+                "113c6cb0a77a45f4",
+                "9f800364d0ecc6ed"
+            ],
+            [
+                "9f800364d0ecc6ed"
+            ]
+        ]
+    },
+    {
+        "id": "113c6cb0a77a45f4",
+        "type": "api-call-service",
+        "z": "d643dfbbd57b6a14",
+        "g": "db8ff6479b214bba",
+        "name": "",
+        "server": "e65189ad.c88a08",
+        "version": 5,
+        "debugenabled": true,
+        "domain": "switch",
+        "service": "turn_on",
+        "areaId": [
+            "kitchen"
+        ],
+        "deviceId": [
+            "535744c8ef8e753a4aec00558475f36a"
+        ],
+        "entityId": [
+            "switch.dishwasher_power"
+        ],
+        "data": "",
+        "dataType": "json",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "none",
+        "x": 1140,
+        "y": 740,
+        "wires": [
+            [
+                "32bc27bd42032eae"
+            ]
+        ]
+    },
+    {
+        "id": "d5cbf6e16461996e",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "g": "db8ff6479b214bba",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 920,
+        "y": 740,
+        "wires": [
+            [
+                "113c6cb0a77a45f4"
+            ]
+        ]
+    },
+    {
+        "id": "b11289711f2fc6fb",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "doorstate",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "on",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "off",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "unavailable",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 4,
+        "x": 1920,
+        "y": 700,
+        "wires": [
+            [
+                "b44f616e36ab6cbc",
+                "11b2f1daded048f8"
+            ],
+            [
+                "225d04d9954c391e"
+            ],
+            [],
+            [
+                "de137cd0cdd6de91",
+                "fa5a2128468e8804"
+            ]
+        ]
+    },
+    {
+        "id": "de137cd0cdd6de91",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "Dishwasher door unknown state",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2150,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "2d1a9451ea7a42c8",
+        "type": "api-call-service",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "Auto2",
+        "server": "e65189ad.c88a08",
+        "version": 5,
+        "debugenabled": false,
+        "domain": "home_connect",
+        "service": "start_program",
+        "areaId": [],
+        "deviceId": [],
+        "entityId": [],
+        "data": "{\"program_key\":\"Dishcare.Dishwasher.Program.Auto2\"}",
+        "dataType": "json",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "none",
+        "x": 2390,
+        "y": 680,
+        "wires": [
+            [
+                "aacaea593db3eae6"
+            ]
+        ]
+    },
+    {
+        "id": "225d04d9954c391e",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "dwProgramToRun",
+        "property": "dwProgramToRun",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Eco50",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Auto2",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Quick65",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 4,
+        "x": 2190,
+        "y": 700,
+        "wires": [
+            [
+                "8c088eeb6aeadf2a"
+            ],
+            [
+                "2d1a9451ea7a42c8"
+            ],
+            [
+                "ec0f961bdb55c36a"
+            ],
+            [
+                "fa5a2128468e8804"
+            ]
+        ]
+    },
+    {
+        "id": "8c088eeb6aeadf2a",
+        "type": "api-call-service",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "Eco50",
+        "server": "e65189ad.c88a08",
+        "version": 5,
+        "debugenabled": false,
+        "domain": "home_connect",
+        "service": "start_program",
+        "areaId": [],
+        "deviceId": [],
+        "entityId": [],
+        "data": "{\"program_key\":\"Dishcare.Dishwasher.Program.Eco50\"}",
+        "dataType": "json",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "none",
+        "x": 2390,
+        "y": 640,
+        "wires": [
+            [
+                "aacaea593db3eae6"
+            ]
+        ]
+    },
+    {
+        "id": "ec0f961bdb55c36a",
+        "type": "api-call-service",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "Quick65",
+        "server": "e65189ad.c88a08",
+        "version": 5,
+        "debugenabled": false,
+        "domain": "home_connect",
+        "service": "start_program",
+        "areaId": [],
+        "deviceId": [],
+        "entityId": [],
+        "data": "{\"program_key\":\"Dishcare.Dishwasher.Program.Auto2\"}",
+        "dataType": "json",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "none",
+        "x": 2400,
+        "y": 720,
+        "wires": [
+            [
+                "aacaea593db3eae6"
+            ]
+        ]
+    },
+    {
+        "id": "de3f942709f8fbc9",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "dwProgramToRun unknown option",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2480,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "aacaea593db3eae6",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "set dwProgramToRun",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwProgramToRun",
+                "pt": "global",
+                "to": "have not yet been set",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2660,
+        "y": 680,
+        "wires": [
+            [
+                "5599509c9b2c80e2",
+                "dc3516081af7693f"
+            ]
+        ]
+    },
+    {
+        "id": "5599509c9b2c80e2",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "dwTimeToRun",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwTimeToRun",
+                "pt": "global",
+                "to": "have not yet been set",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2880,
+        "y": 680,
+        "wires": [
+            [
+                "dc85660eab7d3d0d",
+                "c1e3ec4646ed4aa4"
+            ]
+        ]
+    },
+    {
+        "id": "9f800364d0ecc6ed",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "db8ff6479b214bba",
+        "name": "debug 15",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1120,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "32bc27bd42032eae",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "db8ff6479b214bba",
+        "name": "Starting dishwasher, it's time to start.",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1410,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "e637c8fab4738bb4",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "ProgramToRun",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3140,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "97176a2c73dee793",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "TimeToRun",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3330,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "9eed1c8a51c0c3d7",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "db8ff6479b214bba",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "starting",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 720,
+        "y": 780,
+        "wires": [
+            [
+                "3268ef5a673bb24f"
+            ]
+        ]
+    },
+    {
+        "id": "48ba0d5b05b44e90",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "false, true",
+        "info": "",
+        "x": 1340,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "792510059976f46f",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "g": "795af5d394972550",
+        "name": "Poller",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "0 0-23 * * *",
+        "once": true,
+        "onceDelay": "60",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 160,
+        "y": 580,
+        "wires": [
+            [
+                "77d46de852a4f1c1"
+            ]
+        ]
+    },
+    {
+        "id": "77d46de852a4f1c1",
+        "type": "api-current-state",
+        "z": "d643dfbbd57b6a14",
+        "g": "795af5d394972550",
+        "name": "Bosch Dishwasher - operation_state",
+        "server": "e65189ad.c88a08",
+        "version": 3,
+        "outputs": 2,
+        "halt_if": "everything",
+        "halt_if_type": "str",
+        "halt_if_compare": "is_not",
+        "entity_id": "sensor.dishwasher_operation_state",
+        "state_type": "str",
+        "blockInputOverrides": false,
+        "outputProperties": [
+            {
+                "property": "payload",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entityState"
+            },
+            {
+                "property": "data",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entity"
+            }
+        ],
+        "for": "0",
+        "forType": "num",
+        "forUnits": "minutes",
+        "override_topic": false,
+        "state_location": "payload",
+        "override_payload": "msg",
+        "entity_location": "data",
+        "override_data": "msg",
+        "x": 410,
+        "y": 580,
+        "wires": [
+            [
+                "3bc69da00d1c497c"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "3bc69da00d1c497c",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "795af5d394972550",
+        "name": "operationstate",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Inactive",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Ready",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Run",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Finished",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "unavailable",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 6,
+        "x": 680,
+        "y": 580,
+        "wires": [
+            [
+                "7b5e0a55fbee7c81"
+            ],
+            [],
+            [],
+            [],
+            [],
+            [
+                "7b5e0a55fbee7c81"
+            ]
+        ]
+    },
+    {
+        "id": "57a312cc8fce2c42",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "795af5d394972550",
+        "name": "inactive, ready,run,finished,unavailable",
+        "info": "",
+        "x": 710,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "b34bf114df976dbd",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "on, off,unavailable",
+        "info": "",
+        "x": 1930,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "11b2f1daded048f8",
+        "type": "api-call-service",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "",
+        "server": "e65189ad.c88a08",
+        "version": 5,
+        "debugenabled": true,
+        "domain": "switch",
+        "service": "turn_off",
+        "areaId": [
+            "kitchen"
+        ],
+        "deviceId": [
+            "535744c8ef8e753a4aec00558475f36a"
+        ],
+        "entityId": [
+            "switch.dishwasher_power"
+        ],
+        "data": "",
+        "dataType": "json",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "none",
+        "x": 2180,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0d388043d4aee944",
+        "type": "api-call-service",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "",
+        "server": "e65189ad.c88a08",
+        "version": 5,
+        "debugenabled": true,
+        "domain": "switch",
+        "service": "turn_off",
+        "areaId": [
+            "kitchen"
+        ],
+        "deviceId": [
+            "535744c8ef8e753a4aec00558475f36a"
+        ],
+        "entityId": [
+            "switch.dishwasher_power"
+        ],
+        "data": "",
+        "dataType": "json",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "none",
+        "x": 2420,
+        "y": 760,
+        "wires": [
+            [
+                "aacaea593db3eae6"
+            ]
+        ]
+    },
+    {
+        "id": "1ec0092dfdefceb8",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "Start the selected program",
+        "info": "",
+        "x": 1950,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "b5df17317bed0d23",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "If door is closed, calculate time and what program to run",
+        "info": "",
+        "x": 2040,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "8de4a644942cc5bd",
+        "type": "function",
+        "z": "d643dfbbd57b6a14",
+        "name": "function 2",
+        "func": "setTimeout(msg => {return msg}, msg.delay*1000)\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 680,
+        "y": 2440,
+        "wires": [
+            [
+                "e23efd82391a1ce2"
+            ]
+        ]
+    },
+    {
+        "id": "14aa770173ed79b9",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "delay",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "dwTimeToRun",
+        "payloadType": "global",
+        "x": 430,
+        "y": 2440,
+        "wires": [
+            [
+                "8de4a644942cc5bd"
+            ]
+        ]
+    },
+    {
+        "id": "dc85660eab7d3d0d",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "starting",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3140,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c1e3ec4646ed4aa4",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "dwTimeToRun",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3140,
+        "y": 720,
+        "wires": [
+            [
+                "97176a2c73dee793"
+            ]
+        ]
+    },
+    {
+        "id": "dc3516081af7693f",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "f5ab813e255af16f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "dwProgramToRun",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2880,
+        "y": 760,
+        "wires": [
+            [
+                "e637c8fab4738bb4"
+            ]
+        ]
+    },
+    {
+        "id": "40e779e74a0f986f",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "dwOpenedSinceFinished = true",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwOpenedSinceFinished",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1030,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "38376af5fc45a4c6",
+        "type": "switch",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "flow.starting",
+        "property": "starting",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "false"
+            },
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 990,
+        "y": 120,
+        "wires": [
+            [
+                "7a3f9610022cdab3"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "7a3f9610022cdab3",
+        "type": "api-call-service",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "",
+        "server": "e65189ad.c88a08",
+        "version": 5,
+        "debugenabled": true,
+        "domain": "switch",
+        "service": "turn_off",
+        "areaId": [
+            "kitchen"
+        ],
+        "deviceId": [
+            "535744c8ef8e753a4aec00558475f36a"
+        ],
+        "entityId": [
+            "switch.dishwasher_power"
+        ],
+        "data": "",
+        "dataType": "json",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "none",
+        "x": 1200,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f1e664d1452a2a90",
+        "type": "inject",
+        "z": "d643dfbbd57b6a14",
+        "name": "Mailtest",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "this is the topic",
+        "payload": "This is just a testmail",
+        "payloadType": "str",
+        "x": 390,
+        "y": 2520,
+        "wires": [
+            [
+                "0865ee30820b155f"
+            ]
+        ]
+    },
+    {
+        "id": "0865ee30820b155f",
+        "type": "e-mail",
+        "z": "d643dfbbd57b6a14",
+        "server": "smtp.gmail.com",
+        "port": "465",
+        "secure": true,
+        "tls": true,
+        "name": "andreas.grip@gmail.com",
+        "dname": "",
+        "x": 670,
+        "y": 2520,
+        "wires": []
+    },
+    {
+        "id": "c424a25ad6c1b91e",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "8e8a2ddba52d02c8",
+        "name": "Run when HA is restarted",
+        "info": "",
+        "x": 190,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "a9066b3ce0ac6a4c",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "db8ff6479b214bba",
+        "name": "Check if it's time to start the dishwasher",
+        "info": "",
+        "x": 230,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "07cc7dc66e6dbbc2",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "795af5d394972550",
+        "name": "Start the dishwasher every hour to get a correct door status.",
+        "info": "",
+        "x": 300,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "94cb7781e543e3f9",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "4cb386e91fa23c43",
+        "name": "When the state of the mashine changes, do things",
+        "info": "",
+        "x": 270,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "8569b8a2e718ac23",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "db8ff6479b214bba",
+        "name": "Will trigger change in operation state",
+        "info": "",
+        "x": 1200,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "af2e16a5c7f53f4d",
+        "type": "comment",
+        "z": "d643dfbbd57b6a14",
+        "g": "795af5d394972550",
+        "name": "Will trigger change in operation state",
+        "info": "",
+        "x": 960,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "440bfe33891e0e56",
+        "type": "change",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dwProgramToRun",
+                "pt": "msg",
+                "to": "dwProgramToRun",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3560,
+        "y": 240,
+        "wires": [
+            [
+                "061d42d892276d1c"
+            ]
+        ]
+    },
+    {
+        "id": "061d42d892276d1c",
+        "type": "debug",
+        "z": "d643dfbbd57b6a14",
+        "g": "a1dc1ef12a202dab",
+        "name": "dw will run",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "dwProgramToRun",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3770,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "e65189ad.c88a08",
+        "type": "server",
+        "name": "Home Assistant",
+        "version": 4,
+        "addon": true,
+        "rejectUnauthorizedCerts": true,
+        "ha_boolean": "y|yes|true|on|home|open",
+        "connectionDelay": true,
+        "cacheJson": true,
+        "heartbeat": false,
+        "heartbeatInterval": 30,
+        "areaSelector": "friendlyName",
+        "deviceSelector": "friendlyName",
+        "entitySelector": "friendlyName",
+        "statusSeparator": "at: ",
+        "statusYear": "hidden",
+        "statusMonth": "short",
+        "statusDay": "numeric",
+        "statusHourCycle": "h23",
+        "statusTimeFormat": "h:m"
+    }
+]
